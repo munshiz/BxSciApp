@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "542002250965",
+    "firebase_url": "https://bxsci-a6ca8.firebaseio.com",
+    "project_id": "bxsci-a6ca8",
+    "storage_bucket": "bxsci-a6ca8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:542002250965:android:5f3b963e65b64ae1d4ce5c",
+        "android_client_info": {
+          "package_name": "com.zawadm321.bxsciappthingie"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "542002250965-v2e60kfs8bh7gul22tp31t6o9bbva6qr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_4DSdPb9v2HLAfpl9BMgWQwkKB1vSW0w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "542002250965-v2e60kfs8bh7gul22tp31t6o9bbva6qr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
